@@ -30,7 +30,7 @@ Under Construction!
 |------|---------|-----------------|
 | 09:00–10:00 | Sensing |  |
 | 10:00–10:30 | Break | |
-| 10:30–11:30 | Deep Dive | Brian Anderson: *The Robot Pose and Related Problems* |
+| 10:30–11:30 | Deep Dive | Brian Anderson: [The Robot Pose and Related Problems](ScienceDeepDives/20260707_ANU2021_RobotPose.pdf) |
 | 11:30–12:30 | Symbolic Planning |  |
 | 12:30–13:30 | Lunch | |
 | 13:30–14:30 | Learning Representations |  |
