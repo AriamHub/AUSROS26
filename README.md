@@ -20,7 +20,7 @@ Under Construction!
 
 | Time | Session | Speaker / Notes |
 |------|---------|-----------------|
-| 14:00–15:00 | Introduction | Hanna Kurniawati |
+| 14:30–15:00 | Introduction | Hanna Kurniawati |
 | 15:00–16:00 | Ice Breaker | |
 | 16:00–18:00 | Panel | |
 
