@@ -31,7 +31,7 @@ Under Construction!
 | 09:00–10:00 | Sensing | [Slides](Sensing/LecA1-Sensing.pdf) |
 | 10:00–10:30 | Break | |
 | 10:30–11:30 | Deep Dive | Brian Anderson: [The Robot Pose and Related Problems](ScienceDeepDives/20260707_ANU2021_RobotPose.pdf) |
-| 11:30–12:30 | Symbolic Planning |  |
+| 11:30–12:30 | Symbolic Planning | [Slides](Planning/ausros-2026-B1.pdf) and [PDDL files](Planning/pddl) |
 | 12:30–13:30 | Lunch | |
 | 13:30–14:30 | Learning Representations |  |
 | 14:30–15:30 | Motion Planning to TAMP |  |
