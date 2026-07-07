@@ -1,0 +1,3 @@
+[submodule "HandsOn/Planning"]
+	path = HandsOn/Planning
+	url = https://github.com/rahulshome/ompl-workshop.git
