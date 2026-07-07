@@ -36,7 +36,7 @@ Under Construction!
 | 13:30–14:30 | Learning Representations |  |
 | 14:30–15:30 | Motion Planning to TAMP |  |
 | 15:30–16:00 | Break | |
-| 16:00–17:00 | Planning Under Uncertainty |  |
+| 16:00–17:00 | Planning Under Uncertainty | [Slides](Planning/B3-PlanningUnderUncertainty.pdf) |
 | 17:00–18:00 | Hands-On: Planning | |
 
 ### Wednesday 8 July
