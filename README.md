@@ -33,7 +33,7 @@ Under Construction!
 | 10:30–11:30 | Deep Dive | Brian Anderson: [The Robot Pose and Related Problems](ScienceDeepDives/20260707_ANU2021_RobotPose.pdf) |
 | 11:30–12:30 | Symbolic Planning | [Slides](Planning/ausros-2026-B1.pdf) and [PDDL files](Planning/pddl) |
 | 12:30–13:30 | Lunch | |
-| 13:30–14:30 | Learning Representations |  |
+| 13:30–14:30 | Learning Representations | [Slides](Learning/3D_Representation_Learning.pdf)  |
 | 14:30–15:30 | Motion Planning to TAMP |  |
 | 15:30–16:00 | Break | |
 | 16:00–17:00 | Planning Under Uncertainty | [Slides](Planning/B3-PlanningUnderUncertainty.pdf) |
