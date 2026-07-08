@@ -46,7 +46,7 @@ Under Construction!
 | 09:00–10:00 | Convex Optimisation |  |
 | 10:00–10:30 | Break | |
 | 10:30–11:30 | Deep Dive | Dana Kulic: *Risk-aware Model Learning for Robot Optimal Control* |
-| 11:30–12:30 | Single-Joint Control |  |
+| 11:30–12:30 | Single-Joint Control | [Slides](Control/AUSROS_Control_Track_2026_C1.pdf) |
 | 12:30–13:30 | Lunch | |
 | 13:30–15:30 | Workshop | |
 | 15:30–16:00 | Break | |
@@ -58,7 +58,7 @@ Under Construction!
 
 | Time | Session | Speaker / Notes |
 |------|---------|-----------------|
-| 09:00–10:00 | State Estimation |  |
+| 09:00–10:00 | State Estimation | [Slides](Control/AUSROS_Control_Track_2026_C2.pdf) |
 | 10:00–10:30 | Break | |
 | 10:30–11:30 | Deep Dive | John Vial: *An inside perspective on the Australian robotics industry* |
 | 11:30–12:30 | Multi-Joint Control |  |
