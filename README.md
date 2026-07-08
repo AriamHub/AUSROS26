@@ -52,7 +52,7 @@ Under Construction!
 | 15:30–16:00 | Break | |
 | 16:00–18:00 | Workshop | |
 | 18:00–18:30 | Break | |
-| 18:30– | Workshop / Demos (evening) | |
+| 18:30– | Showcases: University of Canberra, UNSW Canberra | |
 
 ### Thursday 9 July
 
