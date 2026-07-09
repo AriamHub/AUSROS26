@@ -72,7 +72,7 @@ Under Construction!
 
 | Time | Session | Speaker / Notes |
 |------|---------|-----------------|
-| 09:00–10:00 | SLAM | Thierry Peynot |
+| 09:00–10:00 | SLAM | [Slides](Sensing/AuSRoS-2026-SLAM-Lecture_c.pdf) |
 | 10:00–10:30 | Break | |
 | 10:30–11:30 | Deep Dive | Stephen Gould: *Perpetual Token Machines* |
 | 11:30–12:30 | Hands-On: SLAM | |
