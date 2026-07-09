@@ -21,8 +21,8 @@ Under Construction!
 | Time | Session | Speaker / Notes |
 |------|---------|-----------------|
 | 14:30–15:00 | Introduction | Hanna Kurniawati |
-| 15:00–16:00 | Ice Breaker | |
-| 16:00–18:00 | Panel | Questions in-person and via [sli.do](https://app.sli.do/event/1FvrKHFL8bQG9btZrvk1v6) |
+| 15:00–16:00 | Ice Breaker | Thierry Peynot |
+| 16:00–18:00 | [Panel](Panel/AR26_PANEL.pdf) | Don Dansereau, [sli.do](https://app.sli.do/event/1FvrKHFL8bQG9btZrvk1v6) |
 
 ### Tuesday 7 July
 
