@@ -63,7 +63,7 @@ Under Construction!
 | 10:30–11:30 | Deep Dive | John Vial: *An inside perspective on the Australian robotics industry* |
 | 11:30–12:30 | Multi-Joint Control |  |
 | 12:30–13:30 | Lunch | |
-| 13:30–14:30 | Sensor Fusion | Thierry Peynot |
+| 13:30–14:30 | Sensor Fusion | [Slides](Sensing/AuSRoS-Lecture-SensorFusion_2026_c.pdf) |
 | 14:30–15:30 | Deep Dive | Juxi Leitner: *Robust and rigorous robotics from multiple angles: academia, startup, industry* |
 | 15:30–16:00 | Break | |
 | 16:00– | Tour → Dinner → Stargazing (evening excursion) | |
