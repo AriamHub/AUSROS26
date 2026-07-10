@@ -78,7 +78,7 @@ Under Construction!
 | 11:30–12:30 | Hands-On: SLAM | |
 | 12:30–13:30 | Lunch | |
 | 13:30–14:30 | Deep Dive | Jen Jen Chung: *Manipulation in human-centred spaces* |
-| 14:30–15:30 | Hands-On: Learning | |
+| 14:30–15:30 | Hands-On: Learning | [Files](HandsOn/Learning) |
 | 15:30–16:00 | Break | |
 | 16:00–17:00 | Deep Dive | Ahalya Prabhakar: *Ergodic Control for Active Exploration and Learning* |
 | 17:00– | Closing + Farewell | |
